@@ -1,20 +1,4 @@
-{
-   margin: 0;
-   padding: 0;
+body{
+   background-color: rgb(0, 0, 101);
+   color:white;
 }
-
-.cabesalo{   background-color:#000a38;
-   color:rgb(0, 0, 36);
-   display: flex;
-   justify-content: space-around;
-   align-items: center;
-   padding: 0;
-}
-   .cabesalo-imagem{
-width: 20%;
-   } 
-   .cabesalo-lista-item{
-      display: inline-block;
-      margin: o 16px;
-      font-size: 24px;
-   }
