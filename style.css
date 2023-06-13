@@ -1,4 +1,11 @@
 body{
    background-color: rgb(17, 17, 17);
    color:white;
+
+}
+.bateria-principal{
+   width: 700px;
+}
+.bateria-segundaria{
+   width: 700px;;
 }
