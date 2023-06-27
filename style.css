@@ -1,11 +1,35 @@
 body{
    background-color: rgb(17, 17, 17);
+ 
    color:white;
+}
 
+
+.div-img-ametralladora{
+   text-align: center;
+}
+
+.div-ametralladora{
+   text-align: center ;
+}
+
+.bateriaAA{ 
+   width: 600px;
+}
+.portada{
+   text-align: center;
+}
+
+
+
+.portada{
+ width: 1000px;;
+ text-align: center;
 }
 .bateria-principal{
    width: 700px;
 }
+
 .bateria-segundaria{
    width: 700px;;
 }
